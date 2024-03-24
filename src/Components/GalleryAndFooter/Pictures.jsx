@@ -1,57 +1,57 @@
 const pictures = [
     {
       id: 1,
-      imgURL: 'src/assets/images/events/2020hack/1.jpg',
+      imgURL: 'assets/images/events/2020hack/1.jpg',
       text: '2020HACK',
     },
     {
       id: 2,
-      imgURL: 'src/assets/images/events/2020hack/2.jpg',
+      imgURL: 'assets/images/events/2020hack/2.jpg',
       text: '2020HACK',
     },
     {
       id: 3,
-      imgURL: 'src/assets/images/events/2020hack/3.jpg',
+      imgURL: 'assets/images/events/2020hack/3.jpg',
       text: '2020HACK',
     },
     {
       id: 4,
-      imgURL: 'src/assets/images/events/cyber defenders/IMG_1988.webp',
+      imgURL: 'assets/images/events/cyber defenders/IMG_1988.webp',
       text: 'Cyber Defenders 2022',
     },
     {
       id: 5,
-      imgURL: 'src/assets/images/events/cyber defenders/IMG_2000.webp',
+      imgURL: 'assets/images/events/cyber defenders/IMG_2000.webp',
       text: 'Cyber Defenders 2022',
     },
     {
       id: 6,
-      imgURL: 'src/assets/images/events/cyber defenders/IMG_2002.webp',
+      imgURL: 'assets/images/events/cyber defenders/IMG_2002.webp',
       text: 'Cyber Defenders 2022',
     },
     {
       id: 7,
-      imgURL: 'src/assets/images/events/cyber defenders/IMG_2369.webp',
+      imgURL: 'assets/images/events/cyber defenders/IMG_2369.webp',
       text: 'Cyber Defenders 2022',
     },
     {
       id: 8,
-      imgURL: 'src/assets/images/events/cyber defenders/IMG_2372_cropped.webp',
+      imgURL: 'assets/images/events/cyber defenders/IMG_2372_cropped.webp',
       text: 'Cyber Defenders 2022',
     },
     {
       id: 9,
-      imgURL: 'src/assets/images/events/cyber defenders/IMG_2521.webp',
+      imgURL: 'assets/images/events/cyber defenders/IMG_2521.webp',
       text: 'Cyber Defenders 2022',
     },
     {
       id: 10,
-      imgURL: 'src/assets/images/events/cyber defenders/IMG_2958.webp',
+      imgURL: 'assets/images/events/cyber defenders/IMG_2958.webp',
       text: 'Cyber Defenders 2022',
     },
     {
       id: 11,
-      imgURL: 'src/assets/images/events/cyber defenders/IMG_2967.webp',
+      imgURL: 'assets/images/events/cyber defenders/IMG_2967.webp',
       text: 'Cyber Defenders 2022',
     },
     {
