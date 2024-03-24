@@ -1,7 +1,7 @@
 import React from 'react'
-import './Content.css'
+import '../NavbarAndContent/Content.css'
 
-import contentImage from '../assets/lock_pass.png'
+import contentImage from '../../assets/lock_pass.png'
 
 function Content() {
   return (

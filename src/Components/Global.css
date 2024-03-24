@@ -1,0 +1,7 @@
+/* Please dont include Tailwind CSS in index.css or LandingPage.css as it is interfereing with CSS of Content.jsx and Navbar.jsx */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+

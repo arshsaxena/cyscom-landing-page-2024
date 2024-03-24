@@ -1,20 +1,20 @@
 import React from 'react'
-import './Navbar.css'
+import '../NavbarAndContent/Navbar.css'
 import { useState, useEffect, useCallback } from 'react'
 
-import logo from '../assets/cyscom_logo.png'
+import logo from '../../assets/cyscom_logo.png'
 
-import home_icon from '../assets/nav/nav_home_icon.svg'
-import our_team_icon from '../assets/nav/nav_our_team_icon.svg'
-import leaderboard_icon from '../assets/nav/nav_leaderboard_icon.svg'
-import blogs_icon from '../assets/nav/nav_blogs_icon.svg'
-import open_source_icon from '../assets/nav/nav_open_source_icon.svg'
+import home_icon from '../../assets/nav/nav_home_icon.svg'
+import our_team_icon from '../../assets/nav/nav_our_team_icon.svg'
+import leaderboard_icon from '../../assets/nav/nav_leaderboard_icon.svg'
+import blogs_icon from '../../assets/nav/nav_blogs_icon.svg'
+import open_source_icon from '../../assets/nav/nav_open_source_icon.svg'
 
-import home_icon_mobile from '../assets/nav/nav-mobile/nav_home_icon.svg'
-import our_team_icon_mobile from '../assets/nav/nav-mobile/nav_our_team_icon.svg'
-import leaderboard_icon_mobile from '../assets/nav/nav-mobile/nav_leaderboard_icon.svg'
-import blogs_icon_mobile from '../assets/nav/nav-mobile/nav_blogs_icon.svg'
-import open_source_icon_mobile from '../assets/nav/nav-mobile/nav_open_source_icon.svg'
+import home_icon_mobile from '../../assets/nav/nav-mobile/nav_home_icon.svg'
+import our_team_icon_mobile from '../../assets/nav/nav-mobile/nav_our_team_icon.svg'
+import leaderboard_icon_mobile from '../../assets/nav/nav-mobile/nav_leaderboard_icon.svg'
+import blogs_icon_mobile from '../../assets/nav/nav-mobile/nav_blogs_icon.svg'
+import open_source_icon_mobile from '../../assets/nav/nav-mobile/nav_open_source_icon.svg'
 
 function Navbar() {
   // Function to toggle dark mode
